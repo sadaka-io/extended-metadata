@@ -1,5 +1,4 @@
 {
-    "verification":"0c052a3067ac97d9aa",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://github.com/sadaka-io/extended-metadata/blob/c5316e32a5fc632235a1b2281bd7063853fb4ed6/ANEW%20Africa%20Logo%2064x64.png",
